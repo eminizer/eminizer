@@ -7,11 +7,6 @@ I'm currently working on:
 - 🌊 Streaming data and data modeling for [OpenMSI](https://github.com/openmsi)
 - 👩‍💻 Lead dev/maintainer of [OpenMSIStream](https://openmsistream.readthedocs.io/en/latest/)
 
-Ask me (and teach me more!) about:
-- Streaming data with [Kafka](https://kafka.apache.org/)/[Flink](https://flink.apache.org/)
-- Workflow management with [Airflow](https://airflow.apache.org/)
-- Scaling up and out with [Kubernetes](https://kubernetes.io/)
-
 I'm passionate about:
 - 📖 Open source software
 - 🐍 Efficient, elegant, distributable Python
